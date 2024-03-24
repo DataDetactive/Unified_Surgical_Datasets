@@ -7,4 +7,4 @@ The project aims to evaluate the performance of the unified model on both indivi
 This project uses a requirements file you will find it in the repo to use it just type
 `$ pip install -r requiremnts.txt`
 
-### To work :+1: Create your branch and start to contibute! :shipit:
+### To work :+1: Create your branch and start to contribute! :shipit:
